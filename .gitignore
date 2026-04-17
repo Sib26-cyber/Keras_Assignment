@@ -1,0 +1,18 @@
+# Dataset
+chest_xray/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Keras/TF model files
+*.h5
+*.keras
+
+# OS
+.DS_Store
+desktop.ini
