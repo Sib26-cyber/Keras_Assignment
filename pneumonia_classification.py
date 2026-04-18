@@ -16,7 +16,7 @@ epochs = 8
 img_width = 128
 img_height = 128
 img_channels = 3
-fit = True #make fit false if you do not want to train the network again
+fit = False #make fit false if you do not want to train the network again
 train_dir = 'chest_xray\\train'
 test_dir = 'chest_xray\\test'
 
